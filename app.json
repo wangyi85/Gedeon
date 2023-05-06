@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Gedeon",
+    "slug": "Gedeon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Gedeon"
+}
